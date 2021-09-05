@@ -27,7 +27,12 @@ This repository contains multiple functions and JSON files for inventory managem
 4.Having All In One notebook have all the functions to access and modify the JSON Files.<br/>
 
 
-NOTE:**RUN THE CELL SALESRECORDS={} AND PERRECEIPT={} ONLY ONCE AS IT WILL EMPTY THE RECORDS ANDALL THE PURCHASE RECORDS MIGHT BE LOST IF CREATEFILE() FUNCTION WASN'T CALLED TO STORE IT IN LOCAL FILE**
+NOTE:**RUN THE CELL SALESRECORDS={} AND PERRECEIPT={} ONLY ONCE AS IT WILL EMPTY THE RECORDS AND ALL THE PURCHASE RECORDS MIGHT BE LOST IF CREATEFILE() FUNCTION WASN'T CALLED TO STORE IT IN LOCAL FILE**
+
+**Having all in one file is attached below:**
+
+[HavingAllInOne.pdf](https://github.com/heisenberg-7/ETG-IMS-ASSIGNMENT/files/7111103/HavingAllInOne.pdf)
+
 
 
 
