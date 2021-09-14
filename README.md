@@ -1,9 +1,9 @@
 # ETG-IMS-ASSIGNMENT
-This repository contains multiple functions and JSON files for inventory management system.<br/>
+This repository contains multiple functions and JSON files for inventory management system AND Summer Olympic Data Analysis.<br/>
 
 **IDE USED IS VSCODE Jupyter Notebook**
 <br/>
-
+**FOR IMS**
 **To download working code only download Final Function folder**<br/>
 
 **Working of code is as follows:**<br/>
@@ -56,6 +56,16 @@ NOTE:**RUN THE CELL SALESRECORDS={} AND PERRECEIPT={} ONLY ONCE AS IT WILL EMPTY
 **Having all in one file is attached below:**
 
 [HavingAllInOne.pdf](https://github.com/heisenberg-7/ETG-IMS-ASSIGNMENT/files/7111103/HavingAllInOne.pdf)
+
+
+**SUMMER OLYMPIC DATA ANALYSIS**
+1.CSV FILE Having data for analysis.
+2.Notebook for the small analysis having questions and their answers(code lines)
+3.Some plots to show the data visually.
+
+**TO SEE WORKING DOWNLOAD SUMMER OLYMPIC AND RUN THE IPYNB FILE**
+
+**IF PANDAS LIBRARY IS NOT INSTALLED THEN IN VSCODE Enter ctrl + ~ command then pip3 install pandas or pip install pandas(whichever is their).**
 
 
 
